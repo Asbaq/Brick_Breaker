@@ -6,15 +6,10 @@ using UnityEngine.SceneManagement;
 public class Level_3 : MonoBehaviour
 {
     private float x; 
-    void Start()
-    {
-        Ball.Score = 0;
-    }
-    
 
     void Update()
     {
-        if(Ball.Score >= 60)
+        if(Ball.Score >= 144)
         {
             x += Time.deltaTime;
             if(x > 3f)

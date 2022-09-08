@@ -17,6 +17,8 @@ public class Pedal : MonoBehaviour
 
     void FixedUpdate()
     {
+        // This code will update in each Frame fixedUpdate() for Physics only 
+
         dirX = Input.GetAxisRaw("Horizontal"); // Horizontal/X-axis Movement <-Left Arrow/Right Arrow->
         rb.velocity = new Vector2(dirX * movespeed,rb.velocity.y); // Multiply with movespeed
     }

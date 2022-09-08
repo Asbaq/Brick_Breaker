@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class Level_1 : MonoBehaviour
 {
     private float x; 
+
     void Start()
     {
         Ball.Score = 0;
