@@ -5,6 +5,10 @@
 ## 📌 Introduction
 **Brick_Breaker** is a classic arcade-style game where the player controls a paddle to bounce a ball and destroy bricks. The goal is to break all the bricks on each level while managing the ball's movements and avoiding dangerous walls. The game features smooth collision detection, dynamic scorekeeping, multiple levels, and engaging sound effects.
 
+🔗 Video Trailer
+
+https://youtu.be/8n7CxfKoxiA
+
 ## 🔥 Features
 - 🏓 **Paddle Control**: Move the paddle horizontally to bounce the ball.
 - 🟩 **Brick Destruction**: Destroy bricks by hitting them with the ball.
